@@ -1,0 +1,22 @@
+body
+{
+    background-color: goldenrod;
+}
+
+#score
+{
+    font-size: medium;
+    margin-left: 40px;
+}
+
+#time
+{
+    font-size: medium;
+    float:right;
+    margin-right: 40px;
+}
+
+#SketchToBeDrawn
+{
+  color: blueviolet;
+}
